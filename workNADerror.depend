@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1771934199 source:d:\Программы\codeblosks projekt\for_git\worknaderror\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
